@@ -7,3 +7,8 @@ def place_pixel(game_place, x, y):
 # УДАЛЕНИЕ ПИКСЕЛЯ
 def pop_pixel(game_place, x, y):
     game_place[x][y] = 0
+
+                
+            
+                
+            
